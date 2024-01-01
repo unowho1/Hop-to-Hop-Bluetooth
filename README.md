@@ -1,0 +1,1 @@
+There are 2 files "socket_innov_adv" and "socket_innov_adv_end". The second file is for devices which are strictly end devices such as earpods, and the first file is for devices which can act as both end device and intermediate device for transmission of data.
